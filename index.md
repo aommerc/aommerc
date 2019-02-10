@@ -4,12 +4,12 @@
 |----------|---------------|----------|---------|
 | 1 Pink   | Snegulko      |   |   |
 | 2 Yellow | Darkwalker    | Balgas  |   |
-| 3 Blue   |               |   |   |
+| 3 Blue   | Tsaqura       |   |   |
 | 4 Red    |               |   |   |
-| 5 Green  | Elrot         |   |   |
+| 5 Green  | Elrot         |BoomBap   |   |
 | 6 Aqua   |               |   |   |
 | 7 Orange |               |   |   |
 | 8 Brown  |               |   |   |
 
 ## Not assigned yet:
-BoomBap, EvilslavE, Varyag, Brookoo, Infernoman, Gazz, Tsaqura, Duke, Tyr, tutanhan, Succubus, Majesty, Sinner, Uldis, Sinister, GGMason, Balavander, AHDPEXA, Daenerys, Hargrim, Cinuy, Tinkerino, Magnus, Viktor72, IgorMortis, Talloni
+EvilslavE, Varyag, Brookoo, Infernoman, Gazz, Duke, Tyr, tutanhan, Succubus, Majesty, Sinner, Uldis, Sinister, GGMason, Balavander, AHDPEXA, Daenerys, Hargrim, Cinuy, Tinkerino, Magnus, Viktor72, IgorMortis, Talloni
