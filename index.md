@@ -11,5 +11,5 @@
 | 7 Orange |               |   |   |
 | 8 Brown  |               |   |   |
 
-## Not assignet yet:
+## Not assigned yet:
 BoomBap, EvilslavE, Varyag, Brookoo, Infernoman, Gazz, Tsaqura, Duke, Tyr, tutanhan, Succubus, Majesty, Sinner, Uldis, Sinister, GGMason, Balavander, AHDPEXA, Daenerys, Hargrim, Cinuy, Tinkerino, Magnus, Viktor72, IgorMortis, Talloni
