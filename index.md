@@ -1,4 +1,4 @@
 ## Raid of the Unknow III
 
-![UnknownIII](/assets/Unknown3.png.png)
+![UnknownIII](assets/Unknown3.png)
 
