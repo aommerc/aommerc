@@ -3,10 +3,13 @@
 | LANE     | TEAM 1        | TEAM 2   | TEAM 3  |
 |----------|---------------|----------|---------|
 | 1 Pink   | Snegulko      |   |   |
-| 2 Yellow | Darkwalker    |   |   |
+| 2 Yellow | Darkwalker    | Balgas  |   |
 | 3 Blue   |               |   |   |
 | 4 Red    |               |   |   |
 | 5 Green  | Elrot         |   |   |
 | 6 Aqua   |               |   |   |
 | 7 Orange |               |   |   |
 | 8 Brown  |               |   |   |
+
+## Not assignet yet:
+BoomBap, EvilslavE, Varyag, Brookoo, Infernoman, Gazz, Tsaqura, Duke, Tyr, tutanhan, Succubus, Majesty, Sinner, Uldis, Sinister, GGMason, Balavander, AHDPEXA, Daenerys, Hargrim, Cinuy, Tinkerino, Magnus, Viktor72, IgorMortis, Talloni
