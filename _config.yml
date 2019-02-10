@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
+title: Mercenaries
+description: Best Age of Magic Clan
+show_downloads: false
