@@ -59,13 +59,28 @@
 
 # TEAM 3
 
-| LANE     |  TEAM               |
-|----------|---------------------|
-| 1 Pink   | Succubus            |
-| 2 Yellow | Gazz                |
-| 3 Blue   | Infernoman, AHDPEXA |
-| 4 Red    | EvilslavE           |
-| 5 Green  | Sinner              |
-| 6 Aqua   | GGMason, Talloni    |
-| 7 Orange | Magnus              |
-| 8 Brown  | Cinuy               |
+1 Pink
+: Succubus
+
+2 Yellow
+: Gazz
+
+3 Blue 
+: Infernoman 
+: AHDPEXA
+
+4 Red 
+: EvilslavE
+
+5 Green 
+: Sinner
+
+6 Aqua 
+: GGMason
+: Talloni
+
+7 Orange
+: Magnus
+
+8 Brown
+: Cinuy
