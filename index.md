@@ -19,7 +19,7 @@
 : Elrot
 
 6 Aqua 
-: Vamsy
+: Duke
 
 7 Orange
 : Hargrim
@@ -30,14 +30,14 @@
 # TEAM 2
 
 1 Pink
-: Duke
+: Vamsy 
 
 2 Yellow
 : Balgas
 
 3 Blue 
 : tutanhan 
-: Balavander
+: Succubus
 
 4 Red 
 : Varyag
@@ -59,17 +59,17 @@
 # TEAM 3
 
 1 Pink
-: Succubus
+: Balavander 
 
 2 Yellow
 : Gazz
 
 3 Blue 
-: Infernoman 
+: EvilslavE 
 : AHDPEXA
 
 4 Red 
-: EvilslavE
+: Infernoman 
 
 5 Green 
 : Sinner
