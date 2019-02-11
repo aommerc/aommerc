@@ -32,20 +32,27 @@
 
 1 Pink
 : Duke
+
 2 Yellow
 : Balgas
+
 3 Blue 
 : tutanhan 
 : Balavander
+
 4 Red 
 : Varyag
+
 5 Green 
 : BoomBap
+
 6 Aqua 
 : Sinister
 : IgorMortis
+
 7 Orange
 : Tinkerino
+
 8 Brown
 : Uldis
 
