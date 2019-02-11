@@ -2,16 +2,31 @@
 
 # TEAM 1
 
-| LANE     | TEAM .            | 
-|----------|-------------------|
-| 1 Pink   | Snegulko          |
-| 2 Yellow | Darkwalker        |
-| 3 Blue   | Tsaqura, Deanerys |
-| 4 Red    | Brokoo            |
-| 5 Green  | Elrot             |
-| 6 Aqua   | Majesty, Viktor72 |
-| 7 Orange | Hargrim           |
-| 8 Brown  | Tyr               |
+1 Pink
+: Snegulko
+
+2 Yellow
+: Darkwalker
+
+3 Blue 
+: Tsaqura 
+: Deanerys
+
+4 Red 
+: Brokoo
+
+5 Green 
+: Elrot
+
+6 Aqua 
+: Majesty
+: Viktor72
+
+7 Orange
+: Hargrim
+
+8 Brown
+: Tyr
 
 # TEAM 2
 
