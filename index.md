@@ -20,7 +20,7 @@
 
 6 Aqua 
 : Majesty
-: Viktor72
+: Vamsy
 
 7 Orange
 : Hargrim
