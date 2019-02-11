@@ -19,7 +19,6 @@
 : Elrot
 
 6 Aqua 
-: Majesty
 : Vamsy
 
 7 Orange
