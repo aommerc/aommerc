@@ -1,13 +1,40 @@
 ![UnknownIII](assets/Unknown3.png)
 
-| LANE     | TEAM 1            | TEAM 2               | TEAM 3              |
-|----------|-------------------|----------------------|---------------------|
-| 1 Pink   | Snegulko          | Duke                 | Succubus            |
-| 2 Yellow | Darkwalker        | Balgas               | Gazz                |
-| 3 Blue   | Tsaqura, Deanerys | tutanhan,Balavander  | Infernoman, AHDPEXA |
-| 4 Red    | Brokoo            | Varyag               | EvilslavE           |
-| 5 Green  | Elrot             | BoomBap              | Sinner              |
-| 6 Aqua   | Majesty, Viktor72 | Sinister, IgorMortis | GGMason, Talloni    |
-| 7 Orange | Hargrim           | Tinkerino            | Magnus              |
-| 8 Brown  | Tyr               | Uldis                | Cinuy               |
+# TEAM 1
 
+| LANE     | TEAM .            | 
+|----------|-------------------|
+| 1 Pink   | Snegulko          |
+| 2 Yellow | Darkwalker        |
+| 3 Blue   | Tsaqura, Deanerys |
+| 4 Red    | Brokoo            |
+| 5 Green  | Elrot             |
+| 6 Aqua   | Majesty, Viktor72 |
+| 7 Orange | Hargrim           |
+| 8 Brown  | Tyr               |
+
+# TEAM 2
+
+| LANE     | TEAM                 |
+|----------|----------------------|
+| 1 Pink   | Duke                 |
+| 2 Yellow | Balgas               |
+| 3 Blue   | tutanhan,Balavander  |
+| 4 Red    | Varyag               |
+| 5 Green  | BoomBap              |
+| 6 Aqua   | Sinister, IgorMortis |
+| 7 Orange | Tinkerino            |
+| 8 Brown  | Uldis                |
+
+# TEAM 3
+
+| LANE     |  TEAM               |
+|----------|---------------------|
+| 1 Pink   | Succubus            |
+| 2 Yellow | Gazz                |
+| 3 Blue   | Infernoman, AHDPEXA |
+| 4 Red    | EvilslavE           |
+| 5 Green  | Sinner              |
+| 6 Aqua   | GGMason, Talloni    |
+| 7 Orange | Magnus              |
+| 8 Brown  | Cinuy               |
