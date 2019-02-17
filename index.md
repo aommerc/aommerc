@@ -3,7 +3,7 @@
 # TEAM 1
 
 1 Pink
-: Snegulko
+: Vamsy
 
 2 Yellow
 : Darkwalker
@@ -30,7 +30,7 @@
 # TEAM 2
 
 1 Pink
-: Vamsy 
+: Snegulko
 
 2 Yellow
 : Balgas
