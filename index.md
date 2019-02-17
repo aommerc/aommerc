@@ -3,7 +3,7 @@
 # TEAM 1
 
 1 Pink
-: Vamsy
+: nn
 
 2 Yellow
 : Darkwalker
