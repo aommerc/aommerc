@@ -73,7 +73,7 @@
 
 5 Green 
 : Sinner
-: Kayser
+: nn
 
 6 Aqua 
 : GGMason
