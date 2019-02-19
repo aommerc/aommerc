@@ -3,7 +3,7 @@
 # TEAM 1
 
 1 Pink
-: nn
+: Jones
 
 2 Yellow
 : Darkwalker
@@ -16,13 +16,14 @@
 : Brokoo
 
 5 Green 
-: Elrot
+: Meaculpa
 
 6 Aqua 
 : Duke
+: Infernoman 
 
 7 Orange
-: Hargrim
+: Dyzanne
 
 8 Brown
 : Tyr
@@ -30,13 +31,13 @@
 # TEAM 2
 
 1 Pink
-: Snegulko
+: tutanhan
 
 2 Yellow
 : Balgas
 
 3 Blue 
-: tutanhan 
+: Snegulko
 : Succubus
 
 4 Red 
@@ -69,11 +70,10 @@
 : AHDPEXA
 
 4 Red 
-: Infernoman 
-
-5 Green 
 : Sinner
-: nn
+
+5 Green
+: Elrot
 
 6 Aqua 
 : GGMason
