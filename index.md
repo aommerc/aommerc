@@ -10,10 +10,10 @@
 
 3 Blue 
 : Tsaqura 
-: Deanerys
+: murky
 
 4 Red 
-: Brokoo
+: macha
 
 5 Green 
 : Meaculpa
